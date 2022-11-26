@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=sourayaabdelkader" alt="" /></a> </p>
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width=50% align=right>
 
-- 🔭 I’m currently working on **Math Assistant**
+- 🔭 I’m currently working on **my project, Math Assistant**
 
 - 🌱 I’m currently learning **React**
 
