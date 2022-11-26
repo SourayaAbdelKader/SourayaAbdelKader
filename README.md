@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/97/c4/a8/97c4a83a75946defa13a33186bd727b6.png">
+<img src="https://dibsy.github.io/images/home.jpg">
 <h1 align="center">Hi 👋<br> I'm Souraya Abdel Kader </h1>
 <h3 align="center">I'm a mathematician 📐📊 and a junior web developer 👩‍💻 </h3>
 <h4 align="center"> Working on adding new projects and learning new languages 🚀💻 </h4> <br>
