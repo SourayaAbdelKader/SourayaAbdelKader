@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋<br> I'm Souraya Abdel Kader </h1>
 <h3 align="center">I'm a mathematician 📐📊 and a junior web developer 👩‍💻 </h3>
 <h4 align="center"> Working on adding new projects and learning new languages 🚀💻 </h4> <br>
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sourayaabdelkader&label=Profile%20views&color=0e75b6&style=flat](https://komarev.com/ghpvc/?username=sourayaabdelkader&label=Profile%20views&color=0e75b6&style=flat)" alt="sourayaabdelkader" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourayaabdelkader&label=Profile%20views&color=0e75b6&style=flat" alt="sourayaabdelkader" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourayaabdelkader" alt="sourayaabdelkader" /></a> </p>
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width=50% align=right>
