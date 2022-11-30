@@ -1,6 +1,6 @@
 <img width='100%' src="https://dibsy.github.io/images/home.jpg">
 <h1 align="center">Hi 👋<br> I'm Souraya Abdel Kader </h1>
-<h3 align="center">I'm a mathematician 📐📊 and a junior web developer 👩‍💻 </h3>
+<h3 align="center">I'm a Mathematician 📐📊 and a Junior Web Developer 👩‍💻 </h3>
 <h4 align="center"> Working on adding new projects and learning new languages 🚀💻 </h4> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourayaabdelkader&label=Profile%20views&color=0e75b6&style=flat" alt="sourayaabdelkader" /> </p>
 
