@@ -1,65 +1,99 @@
-<img src="https://user-images.githubusercontent.com/112479742/212114962-bd4684c2-1430-47dc-85e2-1fba684375a4.jpg" alt="header" width="100%" height="400px"/>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/112479742/212116249-748f5e08-549e-46b3-85c0-e4888d5a818a.jpg" alt="Hello World" width="40%" height="100px" align="center"/>
+<h1 align="center">Hello world, It's Souraya Abdel Kader</h1>
+<h3 align="center">Junior Full Stack Web Developer 👩‍💻 | Mathematician 📐📊</h3>
+<br>
+
+### <img src="https://img.icons8.com/ios-filled/30/ffffff/about.png" width="20"/> About Me
+
+---
+
+- 🎓 **Education:** Bachelor's degree in Mathematics | Master 1 degree in Education.
+- 💻 **Passion:** Solve problems by day, create more at night.
+- 🧩 **Hobbies:** Enjoys reading 📚 and drawing 🎨 in free time.
+- 🌱 **Current Learning:** Symfony.
+- ⚡ **Fun Fact:** Programming is like writing a book, except if you miss a single comma on page 126 the whole thing makes no sense.
+
+<br>
+
+### <img src="https://img.icons8.com/ios-filled/30/ffffff/contact-card.png" width="20"/> Contact Me
+
+---
+
+<img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true" />
+
+<div align="left">
+    <a href="mailto:sourayaabdelkader@gmail.com" target="_blank" style="text-decoration: none;">
+      <img align="center" height="30" width="40" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" />
+    </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+ <a href="https://www.linkedin.com/in/souraya-abdel-kader/" target="_blank" style="text-decoration: none;">
+      <img align="center" height="30" width="40" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+    </a>
+  </a> <br><br><br>
+  <a href="https://calendly.com/souraya-abdel-kader/interview" target="_blank">
+    <img align="center" height="30" width="40" src="https://img.icons8.com/color/48/000000/calendar.png" alt="Calendly"  />
+  </a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/sourayaak96" target="_blank">
+    <img align="center" height="30" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" />
+  </a>
 </div>
 
-<h1 align="center"> I'm Souraya Abdel Kader, </h1>
-<h3 align="center"> a Mathematician 📐📊 and a Junior Web Developer 👩‍💻 </h3>
-
------
-<img width="35%" align="right" src="https://user-images.githubusercontent.com/112479742/212322981-8bc3ff9e-0980-4586-9209-c6a452764b23.jpg" alt="coding" />
-
-<h1> About Me </h1>
-
-- 🎓 I have a bachelor degree in Mathematics and a Master 1 degree in Education.
-
-- 💻 I developed my interest in programing and learned new languages, frameworks and libraries.👩‍💻
-
-- 🧩 In my free time, I enjoy reading 🕮 and drawing 🖌️.
-
-- 🌱 I’m currently learning **Angular**.
-
-- ⚡ Fun fact **There are 10 kinds of people — those who understand binary and those who don’t.**
-
------
-
-<h1> Contact Me </h1>
+<br><br>
 
 
-<img align="right" width="20%" src="https://user-images.githubusercontent.com/112479742/212481467-12689140-f63d-4e8f-b5dd-26a71f44177c.jpg" alt="Code Like A Girl" />
- <p align="left"> 
-<a href="mailto:sourayaabdelkader@gmail.com" target="blank"><img align="center" height="30" width="40" src="https://th.bing.com/th/id/R.fe236b58506b49412826d0193efa1547?rik=JND2PKmC%2fxzB1w&riu=http%3a%2f%2fpngimg.com%2fuploads%2femail%2femail_PNG11.png&ehk=6sNwAjueFilXp3tCehLPbXDGgZgsYZdR7y6dZ3vpSk4%3d&risl=&pid=ImgRaw&r=0" alt="gmail" /> </a>
-<a href="https://www.linkedin.com/in/souraya-abdel-kader/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souraya abdel kader" height="30" width="40" /></a>
-<a href="https://calendly.com/souraya-abdel-kader/interview" target="blank"><img align="center" src="https://zapier-images.imgix.net/storage/services/33464c48a26a29dd29977ffb16bcca53.png?auto=format&ixlib=react-9.0.2&ar=undefined&fit=crop&h=84&w=84&q=50&dpr=4" alt="sourayaak96" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sourayaak96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourayaak96" height="30" width="40" /></a>
-</p>
+### <img src="https://img.icons8.com/ios-filled/30/ffffff/code-file.png" width="20"/> Languages
 
------
-
-<h1> Languages and Tools </h1>
+---
 
 <p align="center">
-<img align="right" width="20%" height="190px" src="https://user-images.githubusercontent.com/112479742/212535074-4d5203cd-fedc-47ed-a610-20d2a19c31ad.png" alt="" />
-  
-| <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> | <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> |  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> | <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> | <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> | <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> | <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> |
-|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:|:-------------------:| :-------------------:|
-| HTML |    CSS    | Bootstrap | JavaScript | PHP | MySQL | MongoDB | Laravel | 
-|  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> | <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> |  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> | <img src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Emblem.png" height="40"/> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> | <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> |
-| Node.JS | React | TypeScript | Jira | Figma | Git | Firebase | Postman |  
-
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
------
+<br>
 
-<h1> GitHub Stat </h1>
+### <img src="https://img.icons8.com/ios-filled/30/ffffff/toolbox.png" width="20"/> Tools and Frameworks
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourayaabdelkader&label=Profile%20views&color=0e75b6&style=flat" alt="sourayaabdelkader" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=sourayaabdelkader" alt="" /></a> </p>
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/Twig-339933?style=for-the-badge&logo=twig&logoColor=white" alt="Twig"/>
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourayaabdelkader&show_icons=true&locale=en&layout=compact" alt="sourayaabdelkader" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourayaabdelkader&show_icons=true&locale=en" alt="sourayaabdelkader" /></p>
+### <img src="https://img.icons8.com/ios-filled/30/ffffff/github.png" width="20"/> GitHub Stats <img src="https://komarev.com/ghpvc/?username=sourayaabdelkader&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" align="right" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sourayaabdelkader&" alt="sourayaabdelkader" /></p>
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourayaabdelkader&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sourayaabdelkader&" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sourayaabdelkader&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sourayaabdelkader" alt="GitHub Trophies" />
+  </a>
+</p>
