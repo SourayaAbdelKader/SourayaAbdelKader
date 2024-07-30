@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full Stack Web Developer 👩‍💻 | Mathematician 📐📊</h3>
 <br>
 
-### <img src="https://img.icons8.com/ios-filled/30/ffffff/about.png" width="20"/> About Me
+### <img src="/SourayaAbdelKader/assets/info.gif" width="20"/> About Me
 
 ---
 
