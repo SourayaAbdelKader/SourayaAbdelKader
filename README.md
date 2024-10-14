@@ -1,47 +1,24 @@
-<h1 align="center">Hello world, It's Souraya Abdel Kader</h1>
-<h3 align="center">Junior Full Stack Web Developer 👩‍💻 | Mathematician 📐📊</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Souraya Abdel Kader
+===========================================================================================================================================
+
+Junior Web Developer and Mathematician
+--------------------------------------
+
+I've been learning to code for 2 years now, after I switched careers. I've been working as a full stack developer for more than a year now.
+
+* 🌍  I'm based in Beirut, Lebanon
+* ✉️  You can contact me at [sourayaabdelkader@gmail.com](mailto:sourayaabdelkader@gmail.com)
+* 🧠  I'm learning Symfony
+* ⚡  Programming is like writing a book, except if you miss a single comma on page 126 the whole thing makes no sense.
+*  <img height="18px" src="https://github.com/user-attachments/assets/d2741f2d-16ea-4cd8-9c26-daca54be40f9" /> <a href="https://www.linkedin.com/in/souraya-abdel-kader/" target="_blank" rel="noreferrer"> My LinkedIn profile </a>
+
 <br>
-
-### <img src="assets/info.gif" width="20"/> About Me
-
----
-
-- 🎓 **Education:** Bachelor's degree in Mathematics | Master 1 degree in Education.
-- 💻 **Passion:** Solve problems by day, create more at night.
-- 🧩 **Hobbies:** Enjoys reading 📚 and drawing 🎨 in free time.
-- 🌱 **Current Learning:** Symfony.
-- ⚡ **Fun Fact:** Programming is like writing a book, except if you miss a single comma on page 126 the whole thing makes no sense.
-
-<br>
-
-### <img src="https://img.icons8.com/ios-filled/30/ffffff/contact-card.png" width="20"/> Contact Me
-
----
-
-<img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true" />
-
-<div align="left">
-    <a href="mailto:sourayaabdelkader@gmail.com" target="_blank" style="text-decoration: none;">
-      <img align="center" height="30" width="40" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" />
-    </a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- <a href="https://www.linkedin.com/in/souraya-abdel-kader/" target="_blank" style="text-decoration: none;">
-      <img align="center" height="30" width="40" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-    </a>
-  </a> <br><br><br>
-  <a href="https://calendly.com/souraya-abdel-kader/interview" target="_blank">
-    <img align="center" height="30" width="40" src="https://img.icons8.com/color/48/000000/calendar.png" alt="Calendly"  />
-  </a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/sourayaak96" target="_blank">
-    <img align="center" height="30" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" />
-  </a>
+<div align="center">
+    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&border=true" />
 </div>
 
-<br><br>
 
-
-### <img src="https://img.icons8.com/ios-filled/30/ffffff/code-file.png" width="20"/> Languages
+### Languages
 
 ---
 
@@ -58,7 +35,7 @@
 
 <br>
 
-### <img src="https://img.icons8.com/ios-filled/30/ffffff/toolbox.png" width="20"/> Tools and Frameworks
+### Tools and Frameworks
 
 ---
 
