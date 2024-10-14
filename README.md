@@ -1,12 +1,11 @@
 <div align="center">
-  <img src ="./assets/hello.png"/>
-  My name is Souraya Abdel Kader
+  <img width="18%" src ="./assets/hello.png"/>
+  <br>
+  <h2> My name is Souraya Abdel Kader </h2>
 </div>
-===========================================================================================================================================
 
 <div align="center">
-<img src="./assets/icons8-programming.gif"/>Junior Web Developer and Mathematician
---------------------------------------
+<h3> <img width="20px" src="./assets/icons8-programming.gif"/> Junior Web Developer and Mathematician </h3>
 </div>
 
 I've been learning to code for 2 years now, after I switched careers. I've been working as a full stack developer for more than a year now.
