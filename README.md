@@ -1,8 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Souraya Abdel Kader
+<div align="center">
+  <img src ="./assets/hello.png"/>
+  My name is Souraya Abdel Kader
+</div>
 ===========================================================================================================================================
 
-Junior Web Developer and Mathematician
+<div align="center">
+<img src="./assets/icons8-programming.gif"/>Junior Web Developer and Mathematician
 --------------------------------------
+</div>
 
 I've been learning to code for 2 years now, after I switched careers. I've been working as a full stack developer for more than a year now.
 
